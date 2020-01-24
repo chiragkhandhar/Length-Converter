@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Length Converter</string>
     <string name="select_conversion">Select Conversion</string>
-    <string name="kilometers">kms</string>
-    <string name="miles">mile</string>
     <string name="convert">Convert</string>
+    <string name="miles_to_kilometers">Miles to Kilometers</string>
+    <string name="kilometers_to_miles">Kilometers to Miles</string>
 </resources>
