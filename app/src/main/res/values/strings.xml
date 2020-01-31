@@ -9,5 +9,6 @@
     <string name="em">Enter Miles</string>
     <string name="ek">Enter Kilometers</string>
     <string name="clear">Clear</string>
+    <string name="conversion_history">Conversion History</string>
 </resources>
 
