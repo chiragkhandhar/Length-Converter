@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
             sb = temp + sb;
             et.setText("");
-            historyBox.setText(sb.toString());
+            historyBox.setText(sb);
 
         }
 
@@ -126,6 +126,7 @@ public class MainActivity extends AppCompatActivity {
     {
         dynamicAns.setText("");
         finalAns="";
+
         et.setText("");
     }
 

@@ -10,5 +10,6 @@
     <string name="ek">Enter Kilometers</string>
     <string name="clear">Clear</string>
     <string name="conversion_history">Conversion History</string>
+    <string name="clear_history">Clear History</string>
 </resources>
 
